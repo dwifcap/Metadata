@@ -11,5 +11,6 @@
   "tags": ["Meme", "FanToken", "Solana Ecosystem"],
   "creator": {
       "name": "DogWifCap Developers"
-  }
+  },
+  "isMutable": 0
 }
