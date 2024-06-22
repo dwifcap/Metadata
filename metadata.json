@@ -4,9 +4,7 @@
   "image": "https://raw.githubusercontent.com/dwifcap/Metadata/main/dogwifcap.jpeg",
   "description": "Official Dog Wif Cap Token",
   "extensions": {
-    "website": "Will Release Soon",
-    "twitter": "Will Release Soon",
-    "telegram": "Will Release Soon"
+    "telegram": "https://x.com/DWifcap"
   },
   "tags": ["Meme", "FanToken", "Solana Ecosystem"],
   "creator": {
