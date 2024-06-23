@@ -4,7 +4,8 @@
   "image": "https://raw.githubusercontent.com/dwifcap/Metadata/main/dogwifcap.jpeg",
   "description": "Official Dog Wif Cap Token",
   "extensions": {
-    "twitter": "https://x.com/DWifcap"
+    "twitter": "https://x.com/DWifcap",
+    "whitepaper": "https://dogs-organization-1.gitbook.io/dogwifcat-tokenize/"
   },
   "tags": ["Meme", "FanToken", "Solana Ecosystem"],
   "creator": {
